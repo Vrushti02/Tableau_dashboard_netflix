@@ -34,7 +34,6 @@ The Tableau dashboard is highly interactive, allowing users to filter and drill 
 ## How to Use
 
 1. **Filtering**: Use filters available on the dashboard to focus on specific genres, years, or countries.
-2. **Hover Interactivity**: Hover over data points to view detailed information and tooltips.
 3. **Click Interactivity**: Clicking on specific elements will highlight related data and update other visualizations accordingly.
 4. **Explore**: Utilize the interactive features to explore different aspects of Netflix's movie and TV show library.
 
